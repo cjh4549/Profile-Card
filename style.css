@@ -95,11 +95,17 @@ body {
     color: var(--Dark-gray);
 }
 
-@media screen and (max-width: 386px) {
+
+@media screen and (max-width: 425px) {
 
     body {
         background-position: 120% 65%, -23% -28%;
     }
+}
+
+@media screen and (max-width: 386px) {
+
+    
 
     .panel {
         width: 85%;
@@ -129,7 +135,7 @@ body {
 
 }
 
-@media screen and (max-width: 354px) {
+@media screen and (max-width: 356px) {
 
     body {
         font-size: 14px;
